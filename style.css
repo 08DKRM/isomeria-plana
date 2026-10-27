@@ -146,6 +146,10 @@ article h3, .conteudo h3 {
 }
 
 .imagem-acordeao { 
+    text-align: center;
+}
+
+.imagem-acordeao img {
     width: 700px;
     height: auto;
     border-radius: 8px;
